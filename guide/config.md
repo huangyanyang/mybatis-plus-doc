@@ -7,7 +7,7 @@ sidebarDepth: 3
 MyBatis-Plus 的配置异常的简单，我们仅需要一些简单的配置即可使用 MyBatis-Plus 的强大功能！
 
 ::: tip
-在讲解配置之前，请确保您已经按照了 MyBatis-Plus，如果您尚未安装，请查看 [安装]() 一章。
+在讲解配置之前，请确保您已经安装了 MyBatis-Plus，如果您尚未安装，请查看 [安装]() 一章。
 :::
 
 - Spring Boot 工程：
